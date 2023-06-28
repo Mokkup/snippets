@@ -1,4 +1,4 @@
 # Mokkup/Snippets
 
 A bunch of snippets i guess.
-MIT license ig
+# is Unlicense, if your country does not agree with Unlicense, oof.
